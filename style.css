@@ -1,0 +1,31 @@
+.body{
+  min-height: 4000px;
+}
+
+
+.banner {
+  background: url("img/cc.jpg") no-repeat center center;
+  color: #fff;
+  background-size: cover; 
+  padding-top: 20%;
+  padding-bottom: 30%;
+}
+
+
+.album {
+  background-color: #1b7f83;
+  min-height: 150vh; 
+  background-size: cover;
+}
+
+.album h2{
+  padding: 2rem;
+}
+
+
+.bts {
+  background-color: #ffffff;
+  min-height: 150vh; 
+  background-size: cover;
+}
+
